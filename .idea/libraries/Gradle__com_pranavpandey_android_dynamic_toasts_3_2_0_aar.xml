@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pranavpandey.android:dynamic-toasts:3.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f37ca0b2da24aa90a5cf096d1e72921c/transformed/jetified-dynamic-toasts-3.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f37ca0b2da24aa90a5cf096d1e72921c/transformed/jetified-dynamic-toasts-3.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f37ca0b2da24aa90a5cf096d1e72921c/transformed/jetified-dynamic-toasts-3.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pranavpandey.android/dynamic-toasts/3.2.0/1652a696ef45b51b43093c64b8081db299424807/dynamic-toasts-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pranavpandey.android/dynamic-toasts/3.2.0/c56a5cb57c4ca478921c5e11336f306f5d61be17/dynamic-toasts-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

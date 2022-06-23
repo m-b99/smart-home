@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.TutorialsAndroid:KAlertDialog:v14.0.19@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/96a19022994b89eefd83fe9f3de64a27/transformed/jetified-KAlertDialog-v14.0.19/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96a19022994b89eefd83fe9f3de64a27/transformed/jetified-KAlertDialog-v14.0.19/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96a19022994b89eefd83fe9f3de64a27/transformed/jetified-KAlertDialog-v14.0.19/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.TutorialsAndroid/KAlertDialog/v14.0.19/a13575a5232c643203b5f78551f0cb6c099fc364/KAlertDialog-v14.0.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.pranavpandey.android:dynamic-utils:3.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5cb83a872769721c53757d4b77fff1dd/transformed/jetified-dynamic-utils-3.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cb83a872769721c53757d4b77fff1dd/transformed/jetified-dynamic-utils-3.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5cb83a872769721c53757d4b77fff1dd/transformed/jetified-dynamic-utils-3.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pranavpandey.android/dynamic-utils/3.2.0/987b7c8007ed302abe85236b3ae717c8d874d2e1/dynamic-utils-3.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.pranavpandey.android/dynamic-utils/3.2.0/208f3b3302e13a74010f2ccc964c7f956fcac505/dynamic-utils-3.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
